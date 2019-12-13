@@ -3,7 +3,7 @@ layout: page
 title: Travel Wish List
 permalink: /travel-wish-list/
 ---
-I have been to a lot of [places](http://localhost:4000/adventures/) already but there are so many more that I wish to visit!
+I have been to a lot of [places](https://glyle95.github.io/Ari-Adventures/adventures/) already but there are so many more that I wish to visit!
 * Paris, France
 * Machu Picchu and the Nazca Lines in Peru
 * Tokyo, Japan

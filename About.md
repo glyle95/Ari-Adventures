@@ -1,7 +1,6 @@
 --
 layout: page
 title: About
-permalink: /about/
 ---
 ### The Most Adorable Adventuring Camel in the World!
 
